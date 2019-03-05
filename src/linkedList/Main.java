@@ -17,7 +17,7 @@ public class Main {
 		linkedList.removeFirst();
 		System.out.println(linkedList);
 		linkedList.removeLast();
-		System.out.println(linkedList);   
+		System.out.println(linkedList);
 	}
 
 }
